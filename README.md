@@ -1,6 +1,6 @@
-# LumaCart
+# Ecommerce Website
 
-LumaCart is a responsive e-commerce storefront built with React and Vite, with an Express API and MySQL database. Customers can browse and search products, filter by category, manage a shopping bag, provide a delivery address or GPS location, and pay through Stripe. Store staff can sign in to manage products and orders.
+EcommerceWebsite is a responsive e-commerce storefront built with React and Vite, with an Express API and MySQL database. Customers can browse and search products, filter by category, manage a shopping bag, provide a delivery address or GPS location, and pay through Stripe. Store staff can sign in to manage products and orders.
 
 ## Features
 
